@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ibrahim-ST.github.io/RESTCountries-reactjs/static/css/main.e550ba14.css",
+    "main.js": "/Ibrahim-ST.github.io/RESTCountries-reactjs/static/js/main.f7755a45.js",
+    "static/js/787.967d09e5.chunk.js": "/Ibrahim-ST.github.io/RESTCountries-reactjs/static/js/787.967d09e5.chunk.js",
+    "index.html": "/Ibrahim-ST.github.io/RESTCountries-reactjs/index.html",
+    "main.e550ba14.css.map": "/Ibrahim-ST.github.io/RESTCountries-reactjs/static/css/main.e550ba14.css.map",
+    "main.f7755a45.js.map": "/Ibrahim-ST.github.io/RESTCountries-reactjs/static/js/main.f7755a45.js.map",
+    "787.967d09e5.chunk.js.map": "/Ibrahim-ST.github.io/RESTCountries-reactjs/static/js/787.967d09e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e550ba14.css",
+    "static/js/main.f7755a45.js"
+  ]
+}
